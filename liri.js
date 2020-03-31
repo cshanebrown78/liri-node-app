@@ -17,6 +17,9 @@ var choice = process.argv[3];
 
 
 switch (operator) {
+    case "concert-this":
+        band();
+        break;
     case "spotify-this-song":
         music();
         break;
@@ -25,10 +28,32 @@ switch (operator) {
         break;
 }
 
+function band() {
 
+    axios.get("https://rest.bandsintown.com/artists/" + choice + "/events?app_id=codingbootcamp").then(
+        function(response) {
+
+            // console.log(response);
+            for (var i = 0; i < response.data.length; i++) {
+                var bandInfo = 
+                    "\nVenue: " + response.data[i].venue.name +
+                    "\nLocation: " + response.data[i].venue.city +
+                    "\nDate of event: " + moment(response.data[i].datetime).format("MM/DD/YYYY") ;
+                    console.log(bandInfo)
+            }
+
+            // console.log(bandInfo)
+        })    
+        .catch(function(error) {
+         
+            console.log(error);
+        })
+};
 
 function music() {
-
+    if(!choice) {
+        choice = 'The Sign'
+    };
     spotify.search({ type: 'track', query: choice }, function(err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
@@ -47,7 +72,9 @@ function music() {
 };
 
 function movie() {
-    
+    if(!choice) {
+        choice = 'Mr. Nobody.'
+    };
     axios.get("http://www.omdbapi.com/?t=" + choice + "&y=&plot=short&apikey=trilogy").then(
         function(response) {
 
@@ -61,7 +88,7 @@ function movie() {
                 "\nRotten Tomatoes Rating: " + response.data.Ratings[1].Value +
                 "\nLanguage: " + response.data.Language +
                 "\nPlot " + response.data.Plot +
-                "\nRotten Starring actors: " + response.data.Actors;
+                "\nStarring actors: " + response.data.Actors;
 
         console.log (omdb);
         })
@@ -69,4 +96,4 @@ function movie() {
          
             console.log(error);
         })
-    }        
+}        
