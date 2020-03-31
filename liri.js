@@ -20,7 +20,9 @@ switch (operator) {
     case "spotify-this-song":
         music();
         break;
-    
+    case "movie-this":
+        movie();
+        break;
 }
 
 
@@ -39,8 +41,32 @@ function music() {
             "\nAlbum: " + data.tracks.items[0].album.name;
 
         console.log (spotifyInfo);
-
-        
   
         });
-}
+
+};
+
+function movie() {
+    
+    axios.get("http://www.omdbapi.com/?t=" + choice + "&y=&plot=short&apikey=trilogy").then(
+        function(response) {
+
+            // console.log(response);
+
+            var omdb = 
+                "\nTitle: " + response.data.Title +
+                "\nYear released: " + response.data.Year +
+                "\nIMDB rating: " + response.data.Rated +
+                "\nCountry produced in: " + response.data.Country +
+                "\nRotten Tomatoes Rating: " + response.data.Ratings[1].Value +
+                "\nLanguage: " + response.data.Language +
+                "\nPlot " + response.data.Plot +
+                "\nRotten Starring actors: " + response.data.Actors;
+
+        console.log (omdb);
+        })
+        .catch(function(error) {
+         
+            console.log(error);
+        })
+    }        
