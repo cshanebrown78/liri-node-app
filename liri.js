@@ -14,21 +14,25 @@ var fs = require("fs");
 
 var operator = process.argv[2];
 var choice = process.argv[3];
+var text;
 
+userInput();
 
-switch (operator) {
-    case "concert-this":
-        band();
-        break;
-    case "spotify-this-song":
-        music();
-        break;
-    case "movie-this":
-        movie();
-        break;
-    case "do-what-it-says":
-        doIt();
-        break;
+function userInput() {
+    switch (operator) {
+        case "concert-this":
+            band();
+            break;
+        case "spotify-this-song":
+            music();
+            break;
+        case "movie-this":
+            movie();
+            break;
+        case "do-what-it-says":
+            doIt();
+            break;
+    }
 }
 
 function band() {
@@ -39,10 +43,14 @@ function band() {
             // console.log(response);
             for (var i = 0; i < response.data.length; i++) {
                 var bandInfo = 
+                    "\n----concert-this----" +
+                    "\nArtist/Band: " + choice + 
                     "\nVenue: " + response.data[i].venue.name +
                     "\nLocation: " + response.data[i].venue.city + ", " + response.data[i].venue.country +
-                    "\nDate of event: " + moment(response.data[i].datetime).format("MM/DD/YYYY") ;
+                    "\nDate of event: " + moment(response.data[i].datetime).format("MM/DD/YYYY") + "\n" ;
                     console.log(bandInfo)
+                    text = bandInfo;
+                    logOutput();
             }
 
             // console.log(bandInfo)
@@ -111,20 +119,15 @@ function doIt() {
         console.log(dataArr);
         operator = dataArr[0];
         choice = dataArr[1];
+        userInput();
+        
+    });
+}
 
-        switch (operator) {
-            case "concert-this":
-                band();
-                break;
-            case "spotify-this-song":
-                music();
-                break;
-            case "movie-this":
-                movie();
-                break;
-            case "do-what-it-says":
-                doIt();
-                break;
+function logOutput() {
+    fs.appendFile("log.txt", text, function(err){
+        if (err) {
+            console.log(err);
         }
     });
 }
