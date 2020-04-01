@@ -26,6 +26,9 @@ switch (operator) {
     case "movie-this":
         movie();
         break;
+    case "do-what-it-says":
+        doIt();
+        break;
 }
 
 function band() {
@@ -96,4 +99,8 @@ function movie() {
          
             console.log(error);
         })
-}        
+}
+
+function doIt() {
+
+}
