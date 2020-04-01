@@ -2,7 +2,7 @@
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-## Steps to do in order to use App
+## Steps to complete in order to use App
 
 1. Clone repository
 
@@ -39,7 +39,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
    * `do-what-it-says`
 
-### What Each Command Should Do
+### What Each Command Will Do
 
 1. `node liri.js concert-this <artist/band name here>`
 
@@ -80,6 +80,6 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
     * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-## Liri also logs all of your searches to the log.txt file
+### Liri also logs all of your searches to the log.txt file
 
 ### Have fun
