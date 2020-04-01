@@ -40,7 +40,7 @@ function band() {
             for (var i = 0; i < response.data.length; i++) {
                 var bandInfo = 
                     "\nVenue: " + response.data[i].venue.name +
-                    "\nLocation: " + response.data[i].venue.city +
+                    "\nLocation: " + response.data[i].venue.city + ", " + response.data[i].venue.country +
                     "\nDate of event: " + moment(response.data[i].datetime).format("MM/DD/YYYY") ;
                     console.log(bandInfo)
             }
@@ -98,9 +98,33 @@ function movie() {
         .catch(function(error) {
          
             console.log(error);
-        })
+       })
 }
 
 function doIt() {
+    fs.readFile("random.txt", "utf8", function(error,data){
+        if(error) {
+            return console.log(error);
+        }
+        // console.log(data);
+        var dataArr = data.split(",");
+        console.log(dataArr);
+        operator = dataArr[0];
+        choice = dataArr[1];
 
+        switch (operator) {
+            case "concert-this":
+                band();
+                break;
+            case "spotify-this-song":
+                music();
+                break;
+            case "movie-this":
+                movie();
+                break;
+            case "do-what-it-says":
+                doIt();
+                break;
+        }
+    });
 }
