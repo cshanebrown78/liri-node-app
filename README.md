@@ -41,6 +41,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### What Each Command Will Do
 
+#### When entering in a band/song/artist etc...enclose it with ' ' if there are spaces.i.e...'Hungry Like the Wolf'
+
 1. `node liri.js concert-this <artist/band name here>`
 
    * This will show the following information about the artist/band in your terminal/bash window
