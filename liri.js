@@ -40,7 +40,7 @@ function band() {
     axios.get("https://rest.bandsintown.com/artists/" + choice + "/events?app_id=codingbootcamp").then(
         function(response) {
 
-            // console.log(response);
+            
             for (var i = 0; i < response.data.length; i++) {
                 var bandInfo = 
                     "\n----concert-this----" +
@@ -53,7 +53,7 @@ function band() {
                     logOutput();
             }
 
-            // console.log(bandInfo)
+            
         })    
         .catch(function(error) {
          
@@ -69,7 +69,7 @@ function music() {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-        // console.log(JSON.stringify(data, null, 2));
+        
         var spotifyInfo = 
             "\n----spotify-this-song----" +
             "\nArtist(s): " + data.tracks.items[0].artists[0].name +
@@ -92,7 +92,7 @@ function movie() {
     axios.get("http://www.omdbapi.com/?t=" + choice + "&y=&plot=short&apikey=trilogy").then(
         function(response) {
 
-            // console.log(response);
+            
 
             var omdb = 
                 "\n----movie-this----" +
@@ -120,7 +120,7 @@ function doIt() {
         if(error) {
             return console.log(error);
         }
-        // console.log(data);
+        
         var dataArr = data.split(",");
         console.log(dataArr);
         operator = dataArr[0];

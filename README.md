@@ -84,4 +84,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### Liri also logs all of your searches to the log.txt file
 
+### Link to a demonstration of the file
+
+https://drive.google.com/file/d/1JI5N6eEJBf3-tGOMnbMxgtSRPViaf46E/view
+
 ### Have fun
