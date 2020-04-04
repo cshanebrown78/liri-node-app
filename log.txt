@@ -361,3 +361,1179 @@ Artist/Band: metallica
 Venue: Estadio Nacional Julio Martínez Prádanos
 Location: Ñuñoa, Chile
 Date of event: 12/07/2020
+
+----do-what-it-says----
+----do-what-it-says----
+----do-what-it-says----
+----concert-this----
+Artist/Band: journey
+Venue: AK Chin Pavilion
+Location: Phoenix, United States
+Date of event: 06/01/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Isleta Amphitheater
+Location: Albuquerque, United States
+Date of event: 06/02/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Pepsi Center
+Location: Denver, United States
+Date of event: 06/04/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Alpine Valley Music Theatre
+Location: East Troy, United States
+Date of event: 06/06/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Xcel Energy Center
+Location: St Paul, United States
+Date of event: 06/07/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Denny Sanford Premier Center
+Location: Sioux Falls, United States
+Date of event: 06/09/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Wells Fargo Arena
+Location: Des Moines, United States
+Date of event: 06/10/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Chesapeake Energy Arena
+Location: Oklahoma City, United States
+Date of event: 06/19/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: The Grand Theater - Choctaw Casino & Resort
+Location: Durant, United States
+Date of event: 06/20/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: The Walmart AMP
+Location: Rogers, United States
+Date of event: 06/22/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: FedExForum
+Location: Memphis, United States
+Date of event: 06/24/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Hollywood Casino Amphitheatre
+Location: Maryland Heights, United States
+Date of event: 06/26/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Ruoff Music Center
+Location: Noblesville, United States
+Date of event: 06/27/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Riverbend Music Center
+Location: Cincinnati, United States
+Date of event: 06/29/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Blossom Music Center
+Location: Cuyahoga Falls, United States
+Date of event: 06/30/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: TaxSlayer Center
+Location: Moline, United States
+Date of event: 07/02/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Hollywood Casino Amphitheatre
+Location: Tinley Park, United States
+Date of event: 07/03/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: DTE Energy Music Theatre
+Location: Clarkston, United States
+Date of event: 07/05/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Van Andel Arena
+Location: Grand Rapids, United States
+Date of event: 07/08/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Nationwide Arena
+Location: Columbus, United States
+Date of event: 07/10/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: S&T Bank Music Park
+Location: Burgettstown, United States
+Date of event: 07/11/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Budweiser Stage
+Location: Toronto, Canada
+Date of event: 07/13/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Videotron Centre
+Location: Ville De Québec, Canada
+Date of event: 07/14/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Xfinity Theatre
+Location: Hartford, United States
+Date of event: 07/17/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Six Flags Darien Lake
+Location: Darien Center, United States
+Date of event: 07/18/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Xfinity Center
+Location: Mansfield, United States
+Date of event: 07/29/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Northwell Health at Jones Beach Theater
+Location: Wantagh, United States
+Date of event: 07/30/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Jiffy Lube Live
+Location: Bristow, United States
+Date of event: 08/02/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Saratoga Performing Arts Center
+Location: Saratoga Springs, United States
+Date of event: 08/01/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: PNC Bank Arts Center
+Location: Holmdel, United States
+Date of event: 08/04/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: BB&T Pavilion
+Location: Camden, United States
+Date of event: 08/05/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Veterans United Home Loans Amphitheater at Virginia Beach
+Location: Virginia Beach, United States
+Date of event: 08/07/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: PNC Music Pavilion
+Location: Charlotte, United States
+Date of event: 08/08/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Coastal Credit Union Music Park At Walnut Creek
+Location: Raleigh, United States
+Date of event: 08/10/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Bridgestone Arena
+Location: Nashville, United States
+Date of event: 08/12/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Cellairis Amphitheatre at Lakewood
+Location: Atlanta, United States
+Date of event: 08/13/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: MIDFLORIDA Credit Union Amphitheatre
+Location: Tampa, United States
+Date of event: 08/21/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: iTHINK Financial Amphiteatre
+Location: West Palm Beach, United States
+Date of event: 08/22/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: VyStar Veterans Memorial Arena
+Location: Jacksonville, United States
+Date of event: 08/24/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: The Wharf
+Location: Orange Beach, United States
+Date of event: 08/26/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Smoothie King Center
+Location: New Orleans, United States
+Date of event: 08/27/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: CenturyLink Center
+Location: Bossier City, United States
+Date of event: 08/29/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Dos Equis Pavilion
+Location: Dallas, United States
+Date of event: 08/30/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: AT&T Center
+Location: San Antonio, United States
+Date of event: 09/02/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, United States
+Date of event: 09/03/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: The Cynthia Woods Mitchell Pavilion
+Location: The Woodlands, United States
+Date of event: 09/05/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Rupp Arena
+Location: Lexington, United States
+Date of event: 09/09/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Hersheypark Stadium
+Location: Hershey, United States
+Date of event: 09/11/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Bethel Woods Center for the Arts
+Location: Bethel, United States
+Date of event: 09/12/2020
+
+----concert-this----
+Artist/Band: journey
+Venue: Scheuer
+Location: Idstein, Germany
+Date of event: 01/15/2021
+
+----do-what-it-says----
+----do-what-it-says----
+----concert-this----
+Artist/Band: Journey
+Venue: AK Chin Pavilion
+Location: Phoenix, United States
+Date of event: 06/01/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Isleta Amphitheater
+Location: Albuquerque, United States
+Date of event: 06/02/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Alpine Valley Music Theatre
+Location: East Troy, United States
+Date of event: 06/06/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Pepsi Center
+Location: Denver, United States
+Date of event: 06/04/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Xcel Energy Center
+Location: St Paul, United States
+Date of event: 06/07/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Denny Sanford Premier Center
+Location: Sioux Falls, United States
+Date of event: 06/09/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Wells Fargo Arena
+Location: Des Moines, United States
+Date of event: 06/10/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Twin River Casino
+Location: Lincoln, United States
+Date of event: 06/19/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: The Grand Theater - Choctaw Casino & Resort
+Location: Durant, United States
+Date of event: 06/20/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: The Walmart AMP
+Location: Rogers, United States
+Date of event: 06/22/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: FedExForum
+Location: Memphis, United States
+Date of event: 06/24/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Hollywood Casino Amphitheatre
+Location: Maryland Heights, United States
+Date of event: 06/26/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Ruoff Music Center
+Location: Noblesville, United States
+Date of event: 06/27/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Riverbend Music Center
+Location: Cincinnati, United States
+Date of event: 06/29/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Blossom Music Center
+Location: Cuyahoga Falls, United States
+Date of event: 06/30/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: TaxSlayer Center
+Location: Moline, United States
+Date of event: 07/02/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Hollywood Casino Amphitheatre
+Location: Tinley Park, United States
+Date of event: 07/03/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: DTE Energy Music Theatre
+Location: Clarkston, United States
+Date of event: 07/05/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Van Andel Arena
+Location: Grand Rapids, United States
+Date of event: 07/08/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Nationwide Arena
+Location: Columbus, United States
+Date of event: 07/10/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Budweiser Stage
+Location: Toronto, Canada
+Date of event: 07/13/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: S&T Bank Music Park
+Location: Burgettstown, United States
+Date of event: 07/11/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Videotron Centre
+Location: Ville De Québec, Canada
+Date of event: 07/14/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Xfinity Theatre
+Location: Hartford, United States
+Date of event: 07/17/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Six Flags Darien Lake
+Location: Darien Center, United States
+Date of event: 07/18/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Xfinity Center
+Location: Mansfield, United States
+Date of event: 07/29/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Northwell Health at Jones Beach Theater
+Location: Wantagh, United States
+Date of event: 07/30/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Saratoga Performing Arts Center
+Location: Saratoga Springs, United States
+Date of event: 08/01/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Jiffy Lube Live
+Location: Bristow, United States
+Date of event: 08/02/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: PNC Bank Arts Center
+Location: Holmdel, United States
+Date of event: 08/04/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: BB&T Pavilion
+Location: Camden, United States
+Date of event: 08/05/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Veterans United Home Loans Amphitheater at Virginia Beach
+Location: Virginia Beach, United States
+Date of event: 08/07/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: PNC Music Pavilion
+Location: Charlotte, United States
+Date of event: 08/08/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Coastal Credit Union Music Park At Walnut Creek
+Location: Raleigh, United States
+Date of event: 08/10/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Bridgestone Arena
+Location: Nashville, United States
+Date of event: 08/12/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Cellairis Amphitheatre at Lakewood
+Location: Atlanta, United States
+Date of event: 08/13/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: MIDFLORIDA Credit Union Amphitheatre
+Location: Tampa, United States
+Date of event: 08/21/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: iTHINK Financial Amphiteatre
+Location: West Palm Beach, United States
+Date of event: 08/22/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: VyStar Veterans Memorial Arena
+Location: Jacksonville, United States
+Date of event: 08/24/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: The Wharf
+Location: Orange Beach, United States
+Date of event: 08/26/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Smoothie King Center
+Location: New Orleans, United States
+Date of event: 08/27/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: CenturyLink Center
+Location: Bossier City, United States
+Date of event: 08/29/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Dos Equis Pavilion
+Location: Dallas, United States
+Date of event: 08/30/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: AT&T Center
+Location: San Antonio, United States
+Date of event: 09/02/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: American Bank Center Selena Auditorium
+Location: Corpus Christi, United States
+Date of event: 09/03/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: The Cynthia Woods Mitchell Pavilion
+Location: The Woodlands, United States
+Date of event: 09/05/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Rupp Arena
+Location: Lexington, United States
+Date of event: 09/09/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Hersheypark Stadium
+Location: Hershey, United States
+Date of event: 09/11/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Bethel Woods Center for the Arts
+Location: Bethel, United States
+Date of event: 09/12/2020
+
+----concert-this----
+Artist/Band: Journey
+Venue: Scheuer
+Location: Idstein, Germany
+Date of event: 01/15/2021
+
+----do-what-it-says----
+----do-what-it-says----
+----do-what-it-says----
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Penn's Peak
+Location: Jim Thorpe, United States
+Date of event: 06/03/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort
+Location: Niagara Falls, Canada
+Date of event: 06/05/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Resorts World Catskills
+Location: Monticello, United States
+Date of event: 06/06/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Deer Crossing Park - Ribfest
+Location: Romeoville, United States
+Date of event: 07/02/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Ozarks Amphitheater
+Location: Camdenton, United States
+Date of event: 07/04/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Riverwind Casino
+Location: Norman, United States
+Date of event: 06/26/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: National Cherry Festival
+Location: Traverse City, United States
+Date of event: 07/08/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Madison County Fair
+Location: Madison, United States
+Date of event: 07/11/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Iroquois Amphitheater
+Location: Louisville, United States
+Date of event: 07/31/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: York Fair Grandstand
+Location: York, United States
+Date of event: 07/25/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Foellinger Theatre
+Location: Fort Wayne, United States
+Date of event: 08/01/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Sturgis Buffalo Chip
+Location: Sturgis, United States
+Date of event: 08/10/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: The Colosseum at Caesars Windsor
+Location: Windsor, Canada
+Date of event: 08/21/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Little River Casino Resort and Hotel
+Location: Manistee, United States
+Date of event: 08/22/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Hampton Beach Casino Ballroom
+Location: Hampton Beach, United States
+Date of event: 08/25/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Red Rock Resort
+Location: Las Vegas, United States
+Date of event: 10/09/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Stranahan Theater & Great Hall
+Location: Toledo, United States
+Date of event: 10/16/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Tucson Music Hall
+Location: Tucson, United States
+Date of event: 10/10/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Kalamazoo State Theatre
+Location: Kalamazoo, United States
+Date of event: 10/30/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Mystic Lake Casino Hotel
+Location: Prior Lake, United States
+Date of event: 10/31/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Owensboro Sportscenter
+Location: Owensboro, United States
+Date of event: 11/02/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, United States
+Date of event: 11/06/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Riverdome at Horseshoe Bossier City
+Location: Bossier City, United States
+Date of event: 11/07/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: The Theatre at Grand Prairie
+Location: Grand Prairie, United States
+Date of event: 11/09/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Abraham Chavez Theatre
+Location: El Paso, United States
+Date of event: 11/11/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Findlay Toyota Center
+Location: Prescott Valley, United States
+Date of event: 11/13/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Tropicana Showroom
+Location: Atlantic City, United States
+Date of event: 12/12/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Peoples Bank Theatre
+Location: Marietta, United States
+Date of event: 12/15/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Penn's Peak
+Location: Jim Thorpe, United States
+Date of event: 06/03/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: The Avalon Ballroom Theatre At Niagara Fallsview Casino Resort
+Location: Niagara Falls, Canada
+Date of event: 06/05/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Resorts World Catskills
+Location: Monticello, United States
+Date of event: 06/06/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Riverwind Casino
+Location: Norman, United States
+Date of event: 06/26/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Deer Crossing Park - Ribfest
+Location: Romeoville, United States
+Date of event: 07/02/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Ozarks Amphitheater
+Location: Camdenton, United States
+Date of event: 07/04/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: National Cherry Festival
+Location: Traverse City, United States
+Date of event: 07/08/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Madison County Fair
+Location: Madison, United States
+Date of event: 07/11/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: York Fair Grandstand
+Location: York, United States
+Date of event: 07/25/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Iroquois Amphitheater
+Location: Louisville, United States
+Date of event: 07/31/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Foellinger Theatre
+Location: Fort Wayne, United States
+Date of event: 08/01/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Sturgis Buffalo Chip
+Location: Sturgis, United States
+Date of event: 08/10/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: The Colosseum at Caesars Windsor
+Location: Windsor, Canada
+Date of event: 08/21/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Little River Casino Resort and Hotel
+Location: Manistee, United States
+Date of event: 08/22/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Hampton Beach Casino Ballroom
+Location: Hampton Beach, United States
+Date of event: 08/25/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Red Rock Resort
+Location: Las Vegas, United States
+Date of event: 10/09/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Tucson Music Hall
+Location: Tucson, United States
+Date of event: 10/10/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Stranahan Theater & Great Hall
+Location: Toledo, United States
+Date of event: 10/16/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Kalamazoo State Theatre
+Location: Kalamazoo, United States
+Date of event: 10/30/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Mystic Lake Casino Hotel
+Location: Prior Lake, United States
+Date of event: 10/31/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Golden Nugget Hotel & Casino
+Location: Lake Charles, United States
+Date of event: 11/06/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Owensboro Sportscenter
+Location: Owensboro, United States
+Date of event: 11/02/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Riverdome at Horseshoe Bossier City
+Location: Bossier City, United States
+Date of event: 11/07/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: The Theatre at Grand Prairie
+Location: Grand Prairie, United States
+Date of event: 11/09/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Abraham Chavez Theatre
+Location: El Paso, United States
+Date of event: 11/11/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Findlay Toyota Center
+Location: Prescott Valley, United States
+Date of event: 11/13/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Tropicana Showroom
+Location: Atlantic City, United States
+Date of event: 12/12/2020
+
+----concert-this----
+Artist/Band: REO Speedwagon
+Venue: Peoples Bank Theatre
+Location: Marietta, United States
+Date of event: 12/15/2020
+
+----spotify-this-song----
+Artist(s): REO Speedwagon
+Song Title: Take It On the Run
+Song Preview: https://p.scdn.co/mp3-preview/2cf4545f72b0521c7757cf77f3fd7816f3d34cfd?cid=7a2cb271160e4fd18525e62c686ed3a6
+Album: Hi Infidelity (30th Anniversary Edition)
+
+----movie-this----
+Title: Iron Eagle
+Year released: 1986
+IMDB rating: PG-13
+Country produced in: USA, Israel, Canada
+Rotten Tomatoes Rating: 20%
+Language: English
+Plot A young pilot plans a rescue mission when his father, an Air Force Colonel, is shot down over enemy territory and captured.
+Starring actors: Louis Gossett Jr., Jason Gedrick, David Suchet, Tim Thomerson
+
+----concert-this----
+Artist/Band: nightwish
+Venue: A2 Green Concert
+Location: Sankt-peterburg, Russia
+Date of event: 05/26/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Crocus City Hall
+Location: Krasnogorsk, Russia
+Date of event: 05/27/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Stereo Plaza
+Location: Kyiv, Ukraine
+Date of event: 05/29/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Falcon Club
+Location: Minsk, Belarus
+Date of event: 05/31/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Sweden Rock Festival
+Location: Sölvesborg, Sweden
+Date of event: 06/04/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Särkänniemi
+Location: Tampere, Finland
+Date of event: 06/07/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Polish Aviation Museum
+Location: Kraków, Poland
+Date of event: 06/11/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Flugplatz Interlaken
+Location: Interlaken, Switzerland
+Date of event: 06/13/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Festival De Nimes
+Location: Nîmes, France
+Date of event: 06/30/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Rock Fest Barcelona
+Location: Santa Coloma De Gramenet, Spain
+Date of event: 07/02/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Masters of Rock
+Location: Vizovice, Czech Republic
+Date of event: 07/12/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Deichbrand Festival
+Location: Wurster Nordseeküste, Germany
+Date of event: 07/18/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: TIVOLI
+Location: Buckley, United Kingdom
+Date of event: 07/25/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Kuopiorock
+Location: Kuopio, Finland
+Date of event: 08/01/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: MERIDIAN HALL
+Location: Toronto, Canada
+Date of event: 09/08/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Hollywood Palladium
+Location: Los Angeles, United States
+Date of event: 09/11/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Hollywood Palladium
+Location: Los Angeles, United States
+Date of event: 09/12/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Terminal 5
+Location: New York, United States
+Date of event: 09/15/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Oslo Spektrum Arena
+Location: Oslo, Norway
+Date of event: 11/16/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: QUARTERBACK Immobilien ARENA
+Location: Leipzig, Germany
+Date of event: 11/20/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: ISS DOME Düsseldorf
+Location: Düsseldorf, Germany
+Date of event: 11/21/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date of event: 11/23/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date of event: 11/24/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Accorhotels Arena
+Location: Paris, France
+Date of event: 11/25/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Lotto Arena
+Location: Antwerpen, Belgium
+Date of event: 11/26/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Hanns-Martin-Schleyer-Halle
+Location: Stuttgart, Germany
+Date of event: 11/28/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Rockhal
+Location: Esch-sur-alzette, Luxembourg
+Date of event: 11/29/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Lorenzini District
+Location: Milano, Italy
+Date of event: 12/03/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Kleine Olympiahalle München
+Location: München, Germany
+Date of event: 12/04/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Papp Laszlo Arena
+Location: Budapest, Hungary
+Date of event: 12/07/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: BROSE ARENA (BAB Bamberg Arena mbH)
+Location: Bamberg, Germany
+Date of event: 12/09/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Festhalle Messe Frankfurt GmbH
+Location: Frankfurt Am Main, Germany
+Date of event: 12/10/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Wiener Stadthalle Halle D
+Location: Vienna, Austria
+Date of event: 12/12/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Max-Schmeling-Halle
+Location: Berlin, Germany
+Date of event: 12/14/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: Motorpoint Arena Cardiff
+Location: Cardiff, United Kingdom
+Date of event: 12/16/2020
+
+----concert-this----
+Artist/Band: nightwish
+Venue: The SSE Arena, Wembley
+Location: London, United Kingdom
+Date of event: 12/18/2020

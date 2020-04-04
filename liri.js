@@ -13,7 +13,7 @@ var spotify = new Spotify(keys.spotify);
 var fs = require("fs");
 
 var operator = process.argv[2];
-var choice = process.argv[3];
+var choice = process.argv.slice(3).join(" ");
 var text;
 
 userInput();
